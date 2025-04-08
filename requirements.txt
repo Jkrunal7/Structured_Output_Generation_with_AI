@@ -1,0 +1,9 @@
+groq
+python-dotenv
+openai
+pandas
+instructor
+outlines==0.2.1
+transformers==4.49.0
+sentencepiece
+datasets
